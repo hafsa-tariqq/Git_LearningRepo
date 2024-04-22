@@ -1,0 +1,23 @@
+This is Commands File
+
+Commands
+
+git clone link
+
+git status 
+
+cd 
+cd .. 
+
+git add filename
+
+git commit -m "name"
+
+git push origin main 
+
+mkdir "newfilename"
+
+git init
+
+git remote add origin "newlink"
+git remote -v 
